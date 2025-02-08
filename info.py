@@ -56,7 +56,7 @@ MULTI_FSUB = [int(channel_id) for channel_id in environ.get('MULTI_FSUB', '-1002
 # Payment Configuration
 # ============================
 QR_CODE = environ.get('QR_CODE', 'https://t.me/Hindi_movie_uplod/32')
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ankij247@ibl')
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', '1133549523')
 
 # ============================
 # MongoDB Configuration
