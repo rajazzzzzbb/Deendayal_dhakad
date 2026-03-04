@@ -1,5 +1,5 @@
 <p align="center"> <img src="[https://github.com/MrRaazz/Pics/blob/main/deenu.jpg](https://files.catbox.moe/yb6a08.jpg)"> </p>
-<h1 align="center"> 𝑫𝒆𝒆𝒏𝒅𝒂𝒚𝒂𝒍_𝒅𝒉𝒂𝒌𝒂𝒅 </h1>
+<h1 align="center"> MCU_MAMMOOTTY_V1_BOT </h1>
 
 **OWNER**
 
@@ -7,7 +7,7 @@
 
 First Check our **Demo** bot -
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Princess_V4_bot)](https://t.me/Princess_V4_bot)
+[![Click Here](httpsl://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Princess_V4_bot)](https://t.me/Princess_V4_bot)
 
 ## Special Thanks To
 
@@ -136,5 +136,6 @@ This repository is provided for educational purposes only. It is not intended fo
 This project is licensed under the [MIT License](https://github.com/Deendayal403/Deendayal_dhakad/blob/Deendayal_dhakad/LICENSE)
 
 ### Jai Shree Krishna  !😉
+
 
 
