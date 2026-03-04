@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/MrRaazz/Pics/blob/main/deenu.jpg"> </p>
+<p align="center"> <img src="[https://github.com/MrRaazz/Pics/blob/main/deenu.jpg](https://files.catbox.moe/yb6a08.jpg)"> </p>
 <h1 align="center"> 𝑫𝒆𝒆𝒏𝒅𝒂𝒚𝒂𝒍_𝒅𝒉𝒂𝒌𝒂𝒅 </h1>
 
 **OWNER**
@@ -136,4 +136,5 @@ This repository is provided for educational purposes only. It is not intended fo
 This project is licensed under the [MIT License](https://github.com/Deendayal403/Deendayal_dhakad/blob/Deendayal_dhakad/LICENSE)
 
 ### Jai Shree Krishna  !😉
+
 
