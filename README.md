@@ -1,9 +1,9 @@
-<p align="center"> <img src="[[https://github.com/MrRaazz/Pics/blob/main/deenu.jpg]([https://files.catbox.moe/tkzuxd.jpg](https://files.catbox.moe/tkzuxd.jpg))](https://files.catbox.moe/yb6a08.jpg)"> </p>
+<p align="center"> <img src="[[[[https://github.com/MrRaazz/Pics/blob/main/deenu.jpg](https://files.catbox.moe/tkzuxd.jpg)](https://files.catbox.moe/tkzuxd.jpg)]([https://files.catbox.moe/tkzuxd.jpg](https://files.catbox.moe/tkzuxd.jpg))](https://files.catbox.moe/yb6a08.jpg)"> </p>
 <h1 align="center"> MCU_MAMMOOTTY_V1_BOT </h1>
 
 **OWNER**
 
-* [![Contact Developer](https://files.catbox.moe/yb6a08.jpg)](https://t.me/Deendayal_Support_Group)
+* [![Contact Developer]([https://files.catbox.moe/yb6a08.jpg](https://files.catbox.moe/tkzuxd.jpg))](https://t.me/Deendayal_Support_Group)
 
 First Check our **Demo** bot -
 
@@ -136,6 +136,7 @@ This repository is provided for educational purposes only. It is not intended fo
 This project is licensed under the [MIT License](https://github.com/Deendayal403/Deendayal_dhakad/blob/Deendayal_dhakad/LICENSE)
 
 ### Jai Shree Krishna  !😉
+
 
 
 
