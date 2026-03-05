@@ -85,15 +85,15 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/how_to_downlodm')  # 
 # Link Shortener Configuration
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '6a3fd84018381fe30f7e1cb2e9a41f92abfb2dd8')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Liteshort.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '094cac42e1c39c257f8f1cd79faed60098fc83b2')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_downlodm')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Your_Movie_Link_8')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+Ak9u-iW4Lps5MjFl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Hindi_movie_uplod')
 OWNER_LNK = environ.get('OWNER_LNK', '@Abhikumar7799')
 DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/Hindi_movie_uplod')
